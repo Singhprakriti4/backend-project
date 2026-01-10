@@ -1,0 +1,17 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "A javascript based backend project",
+  "keywords": [
+    "javascript",
+    "backened",
+    "project"
+  ],
+  "license": "ISC",
+  "author": "Prakriti Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
